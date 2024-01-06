@@ -1,4 +1,4 @@
-public class Config {
+public class Template_Config {
 
     public static string GetApiKey() {
         return "";
